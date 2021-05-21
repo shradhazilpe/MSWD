@@ -1,0 +1,28 @@
+<head>  
+<link rel="stylesheet" type="text/css" href="mystyle.css">  
+</head>  
+
+ 
+
+<style> 
+
+ 
+table, th, td { 
+  
+  border: 1px solid black;  
+  border-collapse: collapse;  
+}  
+th  {  
+font-size:1.2em;  
+font-weight:bold;  
+text-align:center;  
+padding: 10px;  
+background-color: lightgreen;
+}
+
+td {
+padding: 10px;  
+background-color: lightblue; 
+}
+   
+</style>  
